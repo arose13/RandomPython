@@ -1,0 +1,35 @@
+Country,Mass Shooting Deaths per 1e6,Total Mass Shooting Deaths,Mass Shooting Incidents per 1e6,Total Mass Shooting Incidents,Population,Firearm Regulation,GNI,Police per 1e5,Psychiatrists per 1e5,Homicides per 1e5,Assaults per 1e5,Male Suicides per 1e5,Number of World Cup Appearences
+Norway,15.3,77,0.19,1,5033675,Restrictive,88890,222,22.2,0.6,64,17.3,3
+Finland,1.85,8,0.37,2,5421827,Restrictive,48420,143,21.6,2.3,615,29,0
+Slovakia,1.47,8,0.19,1,5445324,Restrictive,16070,260,11.5,1.5,48,22.3,9
+Israel,1.38,11,0.25,2,7941900,Restrictive,28930,339,17.9,2.1,641,7,1
+Switzerland,0.75,6,0.25,2,8000000,Restrictive,76380,214,42.2,0.7,117,24.8,9
+United States,0.72,227,0.12,38,314941000,Permissive,48450,233,14.5,5,262,17.7,9
+Belgium,0.63,7,0.09,1,11041266,Permissive,46160,356,17.7,1.7,718,28.8,11
+Netherlands,0.42,7,0.06,1,16751323,Restrictive,49730,328,20,1.1,352,13.1,9
+Germany,0.31,25,0.04,3,81799600,Restrictive,43980,301,19.8,0.8,630,17.9,18
+United Kingdom,0.19,13,0.02,1,62262000,Restrictive,37780,333,19.4,1.2,730,10.9,25
+Canada,0.17,6,0.06,2,35010000,Restrictive,45560,195,15.4,1.8,170,17.3,1
+France,0.06,4,0.02,1,65350000,Restrictive,42420,356,21.8,1.4,310,24.7,13
+Hungary,0.11,1,0.1,1,9942000,Restrictive,12730,438,12.3,1.4,124,40,9
+Greece,0.09,1,0.09,1,10787690,Restrictive,25030,452,16.2,1,69,6,2
+Italy,0.05,3,0.02,1,60813326,Restrictive,35330,552,18,1,110,10,17
+Spain,0.04,2,0.02,1,47190493,Restrictive,30990,494,N/A,0.9,177,11.9,13
+Mexico,0.02,2,0.01,1,113910608,Restrictive,9240,366,0.9,18.1,218,7,14
+Japan,0.01,1,0.01,1,126659683,Restrictive,45180,197,10.6,0.5,44,36.2,4
+Turkey,0,0,0,0,74724269,Restrictive,10410,484,3.6,3.3,218,N/A,2
+South Korea,0,0,0,0,50004441,Restrictive,20870,195,5.1,2.9,172,39.9,8
+Poland,0,0,0,0,38186860,Restrictive,12480,261,9.3,1.3,2,26.4,7
+Australia,0,0,0,0,22841921,Restrictive,46200,217,15,1.2,327,12.8,3
+Chile,0,0,0,0,16572475,Restrictive,12280,182,4.1,3.7,576,18.2,8
+Portugal,0,0,0,0,10581949,Restrictive,21250,485,10.2,1.2,312,15.6,5
+Czech Republic,0,0,0,0,10512208,Restrictive,18520,385,13.9,0.9,162,23.9,9
+Sweden,0,0,0,0,9540065,Restrictive,53230,199,20.9,1,927,18.7,11
+Austria,0,0,0,0,8414638,Permissive,48300,326,14.2,0.5,48,23.8,7
+Ireland,0,0,0,0,6399152,Restrictive,38580,261,13.9,1.2,353,19,3
+Denmark,0,0,0,0,5580413,Restrictive,60390,245,16.7,0.9,191,17.5,4
+New Zealand,0,0,0,0,4445436,Restrictive,29350,247,15.3,1.5,23,18.1,2
+Slovenia,0,0,0,0,2055496,Restrictive,23610,,N/A,0.6,108,34.6,2
+Estonia,0,0,0,0,1340194,Restrictive,15200,239,14,5.2,8,30.6,0
+Luxembourg,0,0,0,0,524853,Restrictive,78130,321,18.2,2.5,476,16.1,0
+Iceland,0,0,0,0,320060,Restrictive,35020,204,23.2,0.3,346,16.5,0
